@@ -1,1 +1,0 @@
-Este repositorio contiene ejemplos de reportes de testing (automatizado) realizados con Cypress. Muestra mi capacidad para identificar errores, validar funcionalidades y documentar resultados de manera profesional
